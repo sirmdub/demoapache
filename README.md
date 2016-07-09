@@ -1,2 +1,2 @@
 # demoapache
-A docker image that simply runs a quick apache web server
+A simple docker image that simply runs a quick apache web server
