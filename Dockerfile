@@ -1,3 +1,5 @@
+MAINTAINER sirmdub
+
 FROM httpd:2.4
 
 COPY ./server-status.conf /usr/local/apache2/conf/extra/server-status.conf
